@@ -1,0 +1,12 @@
+{
+  "name": "ci-template",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app/hello.js",
+    "test": "test app/test/test.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
