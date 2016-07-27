@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app/hello.js",
+    "start": "node app/hello-world.js",
     "test": "test app/test/test.js"
   },
   "dependencies": {
