@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app/hello-world.js",
-    "test": "test app/test/test.js"
+    "start": "node hello-world.js",
+    "test": "test test/test.js"
   },
   "dependencies": {
     "express": "^4.13.3"
